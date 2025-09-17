@@ -8,6 +8,7 @@ bool running = true;
 
 while (running)
 {
+
 Console.Clear(); 
 Console.WriteLine("=====================================");
 Console.WriteLine("       Bank Management System       ");
