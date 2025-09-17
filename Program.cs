@@ -8,7 +8,6 @@ bool running = true;
 
 while (running)
 {
-
 Console.Clear(); 
 Console.WriteLine("=====================================");
 Console.WriteLine("       Bank Management System       ");
@@ -44,7 +43,7 @@ running = false;
 Console.WriteLine("Exiting system. Goodbye!");
 break;
 default:
-Console.WriteLine("Invalid choice! Please select a valid option (1-5).");
+Console.WriteLine("Invalid choice! Please select a valid option (1-4).");
 break;
 }
 
