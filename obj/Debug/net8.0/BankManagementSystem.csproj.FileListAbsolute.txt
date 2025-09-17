@@ -1,0 +1,14 @@
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\bin\Debug\net8.0\BankManagementSystem.exe
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\bin\Debug\net8.0\BankManagementSystem.deps.json
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\bin\Debug\net8.0\BankManagementSystem.runtimeconfig.json
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\bin\Debug\net8.0\BankManagementSystem.dll
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\bin\Debug\net8.0\BankManagementSystem.pdb
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.AssemblyInfoInputs.cache
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.AssemblyInfo.cs
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.csproj.CoreCompileInputs.cache
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.dll
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\obj\Debug\net8.0\refint\BankManagementSystem.dll
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.pdb
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\obj\Debug\net8.0\BankManagementSystem.genruntimeconfig.cache
+D:\MynaDotnetProjects\BankManagementSystem\BankManagementSystem\obj\Debug\net8.0\ref\BankManagementSystem.dll
